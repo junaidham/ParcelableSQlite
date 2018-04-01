@@ -1,0 +1,13 @@
+<resources>
+    <!--<string name="app_name">CameraL</string>-->
+
+    <string name="app_name">Camera SQLite</string>
+
+    <string name="file_provider_authority" translatable="false">com.example.junaid.cameral</string>
+
+    <string name="image_orientation">CHANGE PHOTO ORIENTATION</string>
+    <string name="note">This example help to Camera and SQLite Database. \n\n Support Camera From Android Kitkat to N and O(Android SDK</string>
+
+
+
+</resources>
